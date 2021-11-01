@@ -10,3 +10,7 @@
   d:- Numpy
   e:- Dlib
 ```
+<div align="center">
+<img src=https://imgur.com/SaF1kk3.gif" width=550>
+<p>Live demo</p>
+</div>
